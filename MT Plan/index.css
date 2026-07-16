@@ -1,7 +1,0 @@
-* { box-sizing: border-box; }
-html, body, #root { height: 100%; }
-body {
-  margin: 0;
-  background: #F5F6F8;
-  -webkit-font-smoothing: antialiased;
-}
